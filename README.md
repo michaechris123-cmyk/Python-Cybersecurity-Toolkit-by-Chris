@@ -60,5 +60,6 @@ It reads `/var/log/auth.log` using regular expressions (regex) to parse IP addre
 
 ## Proof of Work
 ![Port Scanner](screenshots/1-port-scanner.png)
+![Metadata Scrubber](screenshots/attempts.png)
 ![Metadata Scrubber](screenshots/2-metadata-scrubber.png)
 ![SSH Detector](screenshots/3-ssh-monitor.png)
