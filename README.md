@@ -1,7 +1,7 @@
 # Python Cybersecurity Toolkit
 
 ## Objective
-This repository contains a collection of beginner-friendly cybersecurity tools built in Python. The goal is to demonstrate foundational understanding of networking, log analysis, and OSINT (Open Source Intelligence) through hands-on scripting.
+This repository contains my beginner-friendly cybersecurity tools built in Python. The goal is to demonstrate foundational understanding of networking, log analysis, and OSINT through hands-on scripting.
 
 ## Tools Used
 - **Python 3**
