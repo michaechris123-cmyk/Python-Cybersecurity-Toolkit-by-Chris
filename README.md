@@ -17,11 +17,14 @@ This repository contains a collection of beginner-friendly cybersecurity tools b
 A basic network reconnaissance tool that scans a target IP address for open TCP ports (1-1024).
 
 ### How it works
-<img width="1920" height="1080" alt="1-port-scanner" src="https://github.com/user-attachments/assets/fdc00829-8112-4ae6-99a3-fbcd0efbdf72" />
+
 This version uses multi-threading to scan ports in parallel, making it much faster than traditional scanners. It also includes service identification (e.g., Port 80 = HTTP, Port 22 = SSH)
 ### Usage
+```bash
 `python3 port_scanner.py <target-ip>`
-*Example:* `python3 port_scanner.py scanme.nmap.org`
+
+```bash
+`python3 port_scanner.py scanme.nmap.org`
 
 ---
 
