@@ -22,7 +22,6 @@ This version uses multi-threading to scan ports in parallel, making it much fast
 ### Usage
 ```bash
 `python3 port_scanner.py <target-ip>`
-
 ```bash
 `python3 port_scanner.py scanme.nmap.org`
 
